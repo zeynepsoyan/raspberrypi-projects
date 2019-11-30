@@ -20,7 +20,7 @@ Then light a number of leds accordingly displaying a _visual feast_.
   raspbian + python + terminal use (or ide, thonny)
   
 ### Code
-For this project, the necessary modeules are:
+For this project, the necessary modules are:
 ```python
 import RPi.GPIO as GPIO
 import time
