@@ -4,7 +4,7 @@ Then light a number of leds accordingly displaying a _visual feast_.
 
 ## Getting Started
 
-### Reqiurements
+### Requirements
 - Raspberry Pi
 - Breadboard
 - 5 LEDs
